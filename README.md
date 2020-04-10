@@ -8,7 +8,7 @@ Use CODVID-19 API (Documentation using postman) to build mobile application that
 * CODVID cases per country based on a date.</br>
 * Summary of total cases for the world</br>
 * Live Summary for the World</br>
-Stretch goal:</br>
+## Stretch goal:
 * Display data per Province</br>
 * User can put their address and track CODVID-19 in their neighborhood (Only in countries where regional data is provided)</br>
 
