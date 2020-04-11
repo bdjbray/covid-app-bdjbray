@@ -36,4 +36,6 @@ Develop use case to display a map.</br>
 ## Result of Step3:
 I used react native and react native maps to build a simple app.</br>
 I chose times square as the initial location and put a marker there.</br>
+Because I don't have an Android phone, so I used an iOS emulator and an Android emulator for demo.</br>
 
+![image](https://github.com/BUEC500C1/codvid-app-bdjbray/blob/master/image/Screen%20Shot%202020-04-11%20at%2010.53.26%20AM.png)
