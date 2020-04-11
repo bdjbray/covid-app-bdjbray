@@ -40,15 +40,3 @@ const styles = StyleSheet.create({
   },
 });
 
-/*
-<MapView style={styles.mapStyle} 
-        showsUserLocation
-        initialRegion={{
-        
-        latitude: 40.758896, //the loaction of New York City
-        longitude:  -73.985130,
-        
-        latitudeDelta: 0.0922,
-        longitudeDelta: 0.0421}}/>
-
-*/
