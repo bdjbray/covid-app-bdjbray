@@ -44,4 +44,15 @@ Because I don't have an Android phone, so I used an iOS emulator and an Android 
 On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text. 
 
 ## Result of Step 4
+Because I don't have an Android phone, so I used two simulator for test.</br>
+The landing page:</br>
+![image](https://github.com/BUEC500C1/codvid-app-bdjbray/blob/step4-step5/step4/imgs/Screen%20Shot%202020-04-22%20at%209.03.12%20PM.png)
+</br>
+Users can see the summury of total cases for the world:</br>
+![image](https://github.com/BUEC500C1/codvid-app-bdjbray/blob/step4-step5/step4/imgs/Screen%20Shot%202020-04-22%20at%209.03.33%20PM.png)
+</br>
+Users can see all the cases for different Countries and area:</br>
+![image](https://github.com/BUEC500C1/codvid-app-bdjbray/blob/step4-step5/step4/imgs/Screen%20Shot%202020-04-22%20at%209.04.18%20PM.png)
+</br>
+I am still working on to show the cases on map...
 
