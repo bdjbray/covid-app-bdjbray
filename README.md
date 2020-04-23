@@ -52,7 +52,7 @@ Users can see the summury of total cases for the world:</br>
 ![image](https://github.com/BUEC500C1/codvid-app-bdjbray/blob/step4-step5/step4/imgs/Screen%20Shot%202020-04-22%20at%209.03.33%20PM.png)
 </br>
 Users can see all the cases for different Countries and area:</br>
-![image](https://github.com/BUEC500C1/codvid-app-bdjbray/blob/step4-step5/step4/imgs/Screen%20Shot%202020-04-22%20at%209.04.18%20PM.png)
+![image](https://github.com/BUEC500C1/codvid-app-bdjbray/blob/step4-step5/step4/imgs/Screen%20Shot%202020-04-22%20at%209.37.26%20PM.png)
 </br>
 I am still working on to show the cases on map...
 
