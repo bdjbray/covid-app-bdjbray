@@ -57,9 +57,13 @@ Users can see all the cases for different Countries and area:</br>
 I am still working on to show the cases on map...
 
 ## Goal for Step 5
-Overlay the data on the maps
+Overlay the data on the maps.</br>
 
+## Result of Step 5
 Now I am able to show all the cases for different Countries and areas on the map, without manually add.
-I used an iOS emulator and an Android emulator to test.
+I used an iOS emulator and an Android emulator to test.</br>
+There is a marker for all the Countries and areas, users can click any of them to see the total confrimed cases of the Country.</br>
+![image](https://github.com/BUEC500C1/codvid-app-bdjbray/blob/step4-step5/step5/imgs/Screen%20Shot%202020-04-24%20at%205.46.15%20PM.png)
+
 
 
