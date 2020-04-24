@@ -37,6 +37,8 @@ Now I am able to show all the cases for different Countries and areas on the map
 I used an iOS emulator and an Android emulator to test.</br>
 There is a marker for all the Countries and areas, users can click any of them to see the total confrimed cases of the Country.</br>
 ![image](https://github.com/BUEC500C1/codvid-app-bdjbray/blob/step4-step5/step5/imgs/Screen%20Shot%202020-04-24%20at%205.46.15%20PM.png)
-
+</br>
+A quick demo on iOS:</br>
+![gif](https://github.com/BUEC500C1/codvid-app-bdjbray/blob/step4-step5/step5/imgs/2020-04-24%2018.31.32.gif)
 
 
