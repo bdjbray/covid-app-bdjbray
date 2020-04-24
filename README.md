@@ -39,7 +39,6 @@ There is a marker for all the Countries and areas, users can click any of them t
 ![image](https://github.com/BUEC500C1/codvid-app-bdjbray/blob/step4-step5/step5/imgs/Screen%20Shot%202020-04-24%20at%205.46.15%20PM.png)
 </br>
 A quick demo on iOS:</br>
-![gif](https://github.com/BUEC500C1/codvid-app-bdjbray/blob/step4-step5/step5/imgs/2020-04-24%2018.31.32.gif)
-<img src=https://github.com/BUEC500C1/codvid-app-bdjbray/blob/step4-step5/step5/imgs/2020-04-24%2018.31.32.gif width="48">
+<img src=https://github.com/BUEC500C1/codvid-app-bdjbray/blob/step4-step5/step5/imgs/2020-04-24%2018.31.32.gif width="90">
 
 
