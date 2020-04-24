@@ -56,3 +56,10 @@ Users can see all the cases for different Countries and area:</br>
 </br>
 I am still working on to show the cases on map...
 
+## Goal for Step 5
+Overlay the data on the maps
+
+Now I am able to show all the cases for different Countries and areas on the map, without manually add.
+I used an iOS emulator and an Android emulator to test.
+
+
