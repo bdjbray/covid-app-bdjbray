@@ -23,7 +23,7 @@ Step 2:  Go through REACT native Tutorial</br>
 Develop use case to display a map.</br>
 
 ## Goal for Step 4
-On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text. 
+On separate branch, exercise the COVID-19 API (Documentation using postman) and display the data in your application as text. 
 
 ## Result of Step 4
 Because I don't have an Android phone, so I used two simulator for test.</br>
