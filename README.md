@@ -1,11 +1,11 @@
-# codvid-app-bdjbray
+# covid-app-bdjbray
 
 
 ## Goal
-Use CODVID-19 API (Documentation using postman) to build mobile application that displays:</br>
-* CODVID cases per country on a MAP</br>
-* CODVID cases per country Live on a MAP (changes)</br>
-* CODVID cases per country based on a date.</br>
+Use COVID-19 API (Documentation using postman) to build mobile application that displays:</br>
+* COVID cases per country on a MAP</br>
+* COVID cases per country Live on a MAP (changes)</br>
+* COVID cases per country based on a date.</br>
 * Summary of total cases for the world</br>
 * Live Summary for the World</br>
 ## Stretch goal:
